@@ -1,0 +1,56 @@
+#flexbox2 {
+    display: flex;
+}
+
+#section2 {
+    background-color: white;
+    height: 600px;
+}
+
+#sechead3 {
+    padding-top: 5%;
+    letter-spacing: 3px;
+    font-size: 3rem;
+}
+
+#spn4 {
+    color: transparent;
+    background: linear-gradient(to right, aqua, purple, deeppink);
+    background-clip: text;
+
+}
+
+#btn7 {
+    background-color: red;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: none;
+}
+
+#btn7:hover {
+    transform: rotate(20deg);
+    transition: 1s;
+}
+
+#sec2 {
+    height: 200px;
+    width: 300px;
+    margin-left: 8%;
+    background-color: white;
+    margin-top: 5%;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid rgb(230, 225, 225);
+
+}
+
+#sech2 {
+    color: black;
+    margin-left: 10px;
+}
+
+#p3 {
+    margin-left: 10px;
+}

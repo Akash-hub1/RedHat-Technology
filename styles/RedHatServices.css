@@ -1,0 +1,86 @@
+
+#flexbox2 {
+    display: flex;
+}
+#section3 {
+    background-color: rgb(28, 27, 27);
+    height: 600px;
+    color: white;
+}
+
+#sechead4 {
+    color: white;
+    font-size: 3.5rem;
+    text-shadow: 1px 1px 20px deeppink;
+}
+
+#sec3 {
+    height: 200px;
+    width: 300px;
+    margin-left: 2%;
+    background-color: rgb(43, 40, 40);
+    margin-top: 5%;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid rgb(230, 225, 225);
+
+}
+
+#sech3 {
+    color: white;
+    margin-left: 15px;
+}
+
+#sec4 {
+    height: 200px;
+    width: 300px;
+    margin-left: 2%;
+    background-color: rgb(43, 40, 40);
+    margin-top: 5%;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid rgb(230, 225, 225);
+
+}
+
+#sec4:hover {
+    background: linear-gradient(12deg, rgb(39, 37, 37), rgb(104, 54, 54));
+}
+
+#btns7 {
+    background-color: red;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: none;
+}
+
+#btns8 {
+    background-color: rgb(26, 114, 247);
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 13px;
+    margin-top: 10px;
+    border: none;
+    box-shadow: 1px -19px 200px rgb(255, 0, 157);
+}
+
+#btns9 {
+    background-color: green;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 13px;
+    margin-top: 10px;
+    border: none;
+    box-shadow: 100px -30px 200px rgb(9, 191, 241);
+}
+
+#btns10 {
+    background-color: purple;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: none;
+}
