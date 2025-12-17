@@ -33,6 +33,33 @@
     transform: rotate(20deg);
     transition: 1s;
 }
+#btn8 {
+    background-color: rgb(7, 150, 211);
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: none;
+}
+
+#btn8:hover {
+    transform: rotate(20deg);
+    transition: 1s;
+}
+
+#btn9 {
+    background-color: green;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: none;
+}
+
+#btn9:hover {
+    transform: rotate(20deg);
+    transition: 1s;
+}
 
 #sec2 {
     height: 200px;
